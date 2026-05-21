@@ -23,17 +23,17 @@ Ran 100+ technical deep dives, demos, and POCs across ANZ as a Pre-Sales Enginee
 
 ## Key work
 
-### 🎯 inforcer · Pre-Sales Engineer
+### ☁️🛡️ inforcer · Pre-Sales Engineer
 - Ran 100+ technical deep dives, demos, and POCs across ANZ on the Microsoft 365 security stack
 - Owned end-to-end enterprise onboarding including SSO/SAML, security compliance, and partner enablement
 - Partnered with Account Executives from discovery through commercial close
 
-### 🚀 UbiPark · Product Specialist
+### 🅿️🚗 UbiPark · Product Specialist
 - Owned end-to-end onboarding for Monash Health, Melbourne Airport, Monash University, CBRE, and Charter Hall
 - Cut deployment time 30% through reusable templates and workflow automation
 - Lifted customer retention 20% through usage-driven engagement and structured escalation resolution
 
-### 📈 Phocas Software · Implementations Consultant
+### 📊 📈 Phocas Software · Implementations Consultant
 - Delivered 50+ end-to-end BI implementations across mid-market and enterprise clients
 - Cut implementation lead time 25% through reusable scoping templates adopted across the team
 - Led discovery workshops with C-level and IT stakeholders to define data requirements before build
