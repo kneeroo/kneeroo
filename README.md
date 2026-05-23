@@ -44,6 +44,7 @@ Ran 100+ technical deep dives, demos, and POCs across ANZ as a Pre-Sales Enginee
 
 - 🌐 **[AI-Queryable Portfolio](https://niroo-arjuna.vercel.app/)** — interactive portfolio that lets visitors ask about my experience in natural language. RAG architecture on Claude API + Supabase + Next.js. Generating inbound interview requests from site traffic.
 - 🏥 **[Lumen Health](https://lumen-health-niroo.vercel.app/)** — Next.js 16 patient-facing post-visit companion built end-to-end. A thought experiment in what could sit between a clinical scribe and patient messaging. ([source](https://github.com/kneeroo/Lumen-Health))
+- 🛠️ **Waiting on Parts** — internal parts ordering hub I built end-to-end for All Appliances. Tracks every order line from submission to arrival, blocks NLA parts at entry, and auto-resolves superseded SKUs. Next.js 16 + Clerk + Supabase Realtime, with a global ⌘K palette and append-only audit log.
 - 🏡 **[Dhaniro Mortgage Solutions](https://dhaniromortgages.com.au/)** — production website for a mortgage broker client. Next.js 15 + Sanity headless CMS + Meta Graph API.
 - 🔗 **[Dhaniro Link Hub](https://dhaniromortgages.com.au/links)** — custom link hub replacing Linktree, with dynamic blog feeds and click tracking.
 
