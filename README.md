@@ -2,7 +2,7 @@
 
 > Pre-Sales Engineer · AI-curious operator · I'd rather show you a working prototype than a slide.
 
-5+ years in enterprise SaaS across pre-sales, implementations, and technical consulting. Currently focused on solutions engineering and forward deployed engineerin roles in the AI and agentic space, where the best demo is a working prototype.
+6+ years in enterprise SaaS across pre-sales, implementations, and technical consulting. Currently focused on solutions engineering and forward deployed engineerin roles in the AI and agentic space, where the best demo is a working prototype.
 
 I've shipped technical onboardings for Monash Health, Melbourne Airport, Monash University, CBRE, and Charter Hall at UbiPark. Delivered 50+ end-to-end BI implementations at Phocas Software. 
 
